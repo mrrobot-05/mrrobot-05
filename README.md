@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # Aditya Kale
 
-### Backend Developer · Python · Django · FastAPI
+### Python Backend Developer · AI Application Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+%7C+Django+%7C+FastAPI+%7C+SQL;REST+APIs+%7C+PostgreSQL+%7C+Backend+Development;Django+ORM+%7C+SQLAlchemy+%7C+Pydantic;Data+Structures+%26+Algorithms+%7C+Problem+Solving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+%7C+FastAPI+%7C+Django+%7C+SQL;Backend+Engineering+%7C+REST+APIs+%7C+PostgreSQL;RAG+%7C+LLM+Applications+%7C+AI+Agents;Hybrid+Retrieval+%7C+Evaluation+%7C+AI+Engineering" />
 
 <br/>
 
@@ -14,27 +15,25 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrrobot-05)
 
 
-<img src="https://komarev.com/ghpvc/?username=kunal7216&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-🎓 Final-year Engineering student focused on **backend development, databases, and software engineering**.
+🎓 Final-year B.Tech student focused on **backend engineering and AI application development**.
 
-🛠️ I build backend applications using **Python, Django, FastAPI, REST APIs, and SQL**, with hands-on experience in database-driven applications, authentication, CRUD operations, and relational databases.
+🛠️ I build applications and backend systems using **Python, Django, FastAPI, REST APIs, SQL, and relational databases**.
 
-⚙️ I've built projects ranging from **Django web applications and FastAPI REST APIs to distributed backend systems**, giving me practical experience with application architecture, database design, API development, and backend problem solving.
+🤖 Exploring AI engineering through **RAG pipelines, hybrid retrieval, LLM integration, agentic workflows, and evaluation of AI systems**.
 
-🧩 I enjoy understanding how systems work internally and continuously improving my knowledge of **backend architecture, distributed systems, and scalable software design**.
+🔍 Interested in building AI applications that are not just functional, but reliable, testable, and grounded in relevant information.
 
-🎯 Currently looking for **Software Engineer / Backend Engineer / SDE** opportunities.
+🎯 Looking for opportunities in **Software Engineering, Backend Development, and AI Engineering**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -44,11 +43,19 @@
 
 ### Backend Development
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+
+### AI Engineering
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B47A5?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Retrieval-0077B5?style=for-the-badge)
 
 ### Databases
 
@@ -56,107 +63,100 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Tools
+### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ⚡ Distributed Job Scheduler
+### 🧠 Nexora — AI Knowledge Engine
 
-A distributed backend system designed for scheduling and executing jobs across workers.
+**Agentic RAG · Hybrid Retrieval · AI Evaluation**
 
-**Focus:** Distributed Systems · Job Scheduling · Fault Tolerance · Backend Architecture
+An AI-powered document intelligence platform designed to retrieve relevant information from documents and generate grounded responses.
+
+- Hybrid retrieval combining semantic search and BM25.
+- Document ingestion, chunking and metadata processing.
+- Vector-based retrieval using ChromaDB.
+- LangGraph-based workflow orchestration.
+- Grounded responses and validation workflows.
+- Testing, evaluation and observability.
+
+**Tech Stack:** Python, FastAPI, LangGraph, ChromaDB, BM25, Sentence Transformers, Gemini, Pytest, Docker.
 
 ---
 
-### 👥 CRM Web Application
+### 🤖 AgentDesk — Multi-Agent AI Customer Support
 
-**Python · Django · PostgreSQL · Bootstrap · Django ORM**
+**Django · LLMs · RAG · ChromaDB**
 
-Django-based CRM platform for managing customers, products, orders, and order statuses.
+An AI customer support application combining agent workflows with knowledge retrieval.
 
-**Highlights:**
-- CRUD operations
-- Relational database models
-- Order filtering
-- Django forms
-- URL routing
-- Interactive dashboard
-- PostgreSQL integration
+- Multi-agent customer support workflows.
+- RAG-based knowledge retrieval.
+- ChromaDB and embeddings.
+- Real-time dashboard updates using Server-Sent Events (SSE).
+
+**Tech Stack:** Python, Django, LLM Integration, RAG, ChromaDB, SSE.
 
 ---
 
 ### 📦 Product Inventory Management API
 
-**Python · FastAPI · Pydantic · SQLAlchemy · REST APIs**
+**FastAPI · SQLAlchemy · Pydantic · REST APIs**
 
-FastAPI-based REST API for managing product inventory.
+A backend application for managing product inventory through RESTful APIs.
 
-**Highlights:**
-- GET and POST endpoints
-- Pydantic data validation
-- SQLAlchemy database interaction
-- Product creation and retrieval
-- Structured API design
+- Product CRUD endpoints.
+- Request validation using Pydantic.
+- SQLAlchemy database integration.
+- Structured API responses.
 
----
-
-### ✈️ Travello – Travel Planner
-
-**Python · Django · PostgreSQL · HTML · CSS · Bootstrap**
-
-Django-based travel planner website with user authentication and PostgreSQL integration.
-
-**Highlights:**
-- User registration and login
-- Travel blog publishing
-- Flight listings
-- PostgreSQL database integration
-- Responsive Bootstrap UI
+**Tech Stack:** Python, FastAPI, SQLAlchemy, Pydantic.
 
 ---
 
-## 🧠 Problem Solving
+### 👥 CRM Web Application
 
-I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills and strengthen my programming fundamentals.
+**Django · PostgreSQL · Django ORM · Bootstrap**
 
-### Areas of Interest
+A database-driven CRM application for managing customers, products and orders.
 
-`Data Structures` `Algorithms` `OOP` `SQL` `Backend Development` `System Design`
+- Customer and order management.
+- CRUD operations and authentication.
+- Order status tracking and filtering.
+- Dashboard metrics and database integration.
 
----
-
-## 📚 Currently Learning
-
-- **Distributed Systems** — understanding reliable and scalable backend architectures
-- **System Design** — designing maintainable and scalable applications
-- **Docker & Deployment** — containerization and application deployment
-- **Database Design** — improving schema design and query optimization
-- **Event-Driven Architecture** — learning asynchronous and distributed application patterns
+**Tech Stack:** Python, Django, PostgreSQL, Django ORM, Bootstrap.
 
 ---
 
-## 🎯 Currently
+## Problem Solving
 
-- 🔍 Seeking **Software Engineer · Backend Engineer · SDE** roles
-- 📍 Open to opportunities in **India · Remote**
-- ⚡ Focused on backend development, DSA, and distributed systems
+Practicing Data Structures & Algorithms to strengthen programming fundamentals and problem-solving skills.
+
+`Python` `C++` `DSA` `OOP` `SQL`
+
+---
+
+## Currently Exploring
+
+- **AI Engineering** — retrieval pipelines, agent workflows and LLM application architecture.
+- **RAG Evaluation** — measuring retrieval quality, relevance and groundedness.
+- **Backend Engineering** — API design, database performance and reliability.
+- **System Design** — maintainable backend architectures and scalable systems.
+- **Docker** — application containerization and deployment.
 
 ---
 
 <div align="center">
 
-### Building backend systems. Solving problems. Learning continuously.
+### Building backend systems and exploring reliable AI applications.
 
 </div>
